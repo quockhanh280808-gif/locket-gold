@@ -1,0 +1,7 @@
+{
+  "name": "locket/gold",
+  "description": "Locket Gold Auto Upgrade",
+  "require": {
+    "php": ">=7.4"
+  }
+}
